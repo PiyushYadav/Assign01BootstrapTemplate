@@ -1,3 +1,3 @@
 # Assign01BootstrapTemplate
 
-[Main Page](index.html)
+[index.html](index.html)
