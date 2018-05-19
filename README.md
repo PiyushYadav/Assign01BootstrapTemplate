@@ -1,3 +1,3 @@
 # Assign01BootstrapTemplate
 
-[a relative link](index.html)
+[Main Page](index.html)
